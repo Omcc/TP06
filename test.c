@@ -2,7 +2,7 @@
 #include <time.h>
 #include "tp06.h"
 #include "math.h"
-
+#include <stdlib.h>
 
 int main()
 {
